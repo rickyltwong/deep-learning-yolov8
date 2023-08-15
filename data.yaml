@@ -1,0 +1,6 @@
+train: humber_images/train/images
+val: humber_images/val/images
+test: humber_images/test/images
+
+nc: 3
+names: ["humber_large", "humber_medium", "humber_small"]
